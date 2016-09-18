@@ -1,7 +1,7 @@
 # Site settings
 title: Story Blog
 header-img: img/home-bg.jpg
-email: cloudfavorites@126.com
+email: relatos@126.com
 copyright_name: Story
 description: "this is share sotory website!"
 baseurl: ""
@@ -9,7 +9,7 @@ url: "http://liuyue.ren"
 #twitter_username: SBootstrap
 github_username:  relatos
 #facebook_username:  StartBootstrap
-email_username:  cloudfavorites@126.com
+email_username:  relatos@126.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
