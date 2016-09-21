@@ -13,7 +13,7 @@ email_username:  relatos@126.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id:UA-81503915-2
+google_tracking_id: UA-81503915-2
 
 # Build settings
 markdown: kramdown
