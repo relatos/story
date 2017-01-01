@@ -1,8 +1,8 @@
 # Site settings
-title: Story Blog
+title: June Blog
 header-img: img/home-bg.jpg
 email: relatos@126.com
-copyright_name: Story
+copyright_name: June
 description: "this is share sotory website!"
 baseurl: ""
 url: "http://liuyue.ren"
@@ -19,7 +19,7 @@ google_tracking_id: UA-81503915-2
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 12
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
