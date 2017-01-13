@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello 2016"
 subtitle:   hello world, hello strory
 date:       2016-09-13
-author:     "neo"
+author:     "六月"
 header-img: "img/2016/post-bg-2016.jpg"
 catalog: true
 tags:
