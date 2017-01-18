@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: relatos@126.com
 copyright_name: June
 description: "this is share sotory website!"
-baseurl: ""
+baseurl: "/"
 url: "http://liuyue.ren"
 #twitter_username: SBootstrap
 github_username:  relatos
