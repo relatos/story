@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello 2016"
-subtitle:   hello world, hello strory
+subtitle:   hello world, hello june
 date:       2016-09-13
 author:     "六月"
 header-img: "img/2016/post-bg-2016.jpg"
@@ -12,7 +12,7 @@ tags:
 
 > “share not stoping”
 
-## strory 
+## june strory 
 [六月故事](http://liuyue.ren/)
 
 
