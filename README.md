@@ -1,3 +1,3 @@
-#June Blog 
+# June Blog 
 
-###[View Blog &rarr;](http://liuyue.ren/)
+## [View Blog &rarr;](http://liuyue.ren/)
