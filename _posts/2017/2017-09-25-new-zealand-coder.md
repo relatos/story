@@ -2,7 +2,8 @@
 layout:     post
 title:      "一个网工的十年奋斗史 - 移民篇"
 subtitle:   " "
-header-img: "img/2017/post-bg-2017.jpg"
+author:     "姜汁啤酒"
+header-img: "img/2017/new.jpg"
 ---
 
 移民，一个工程师热于谈论的热门话题。

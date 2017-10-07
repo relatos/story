@@ -2,10 +2,11 @@
 layout:     post
 title:      "一个网工的十年奋斗史 - 工作篇"
 subtitle:   " "
-header-img: "img/2017/post-bg-2017.jpg"
+author:     "姜汁啤酒"
+header-img: "img/2017/new-work.jpg"
 ---
 
-移民萌芽的启动。
+技术移民的萌芽
 
 ![](http://liuyue.ren/img/2017/new-work.jpg)
 
